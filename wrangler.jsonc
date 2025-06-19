@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
-  "main": "worker.js",
+  "name": "cfworker",
+  "main": "worker_esm.js",
   "compatibility_date": "2025-06-19"
 }
